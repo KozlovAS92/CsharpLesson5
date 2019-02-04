@@ -1,0 +1,7 @@
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\bin\Debug\KozlovDZ52.exe.config
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\bin\Debug\KozlovDZ52.exe
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\bin\Debug\KozlovDZ52.pdb
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\obj\Debug\KozlovDZ52.csprojResolveAssemblyReference.cache
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\obj\Debug\KozlovDZ52.csproj.CoreCompileInputs.cache
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\obj\Debug\KozlovDZ52.exe
+C:\Users\podli\source\repos\KozlovDZ52\KozlovDZ52\obj\Debug\KozlovDZ52.pdb
